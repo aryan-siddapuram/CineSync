@@ -1,0 +1,67 @@
+[
+    {
+      "ID":"M-1",
+      "Name": "Salaar",
+      "Language": "Telugu",
+      "Genre": "Action",
+      "Platform": "Netflix",
+      "Rating": "⭐️⭐️⭐️⭐️",
+      "Progress": "Started",
+      "Type": "Franchise",
+      "Story": "Fiction",
+      "Duration": "3hr 2min",
+      "Release": "22 Dec 2023"
+    },
+    {
+      "ID":"M-2",
+      "Name": "Salaar",
+      "Language": "Telugu",
+      "Genre": "Action",
+      "Platform": "Netflix",
+      "Rating": "⭐️⭐️⭐️⭐️",
+      "Progress": "Finished",
+      "Type": "Franchise",
+      "Story": "Fiction",
+      "Duration": "3hr 2min",
+      "Release": "22 Dec 2023"
+    },
+    {
+      "ID":"M-3",
+      "Name": "Guntur",
+      "Language": "Telugu",
+      "Genre": "Action",
+      "Platform": "Netflix",
+      "Rating": "⭐️⭐️⭐️⭐️",
+      "Progress": "Finished",
+      "Type": "Franchise",
+      "Story": "Fiction",
+      "Duration": "3hr 2min",
+      "Release": "22 Dec 2023"
+    },
+    {
+      "ID":"M-4",
+      "Name": "Salaar",
+      "Language": "Telugu",
+      "Genre": "Action",
+      "Platform": "Netflix",
+      "Rating": "⭐️⭐️⭐️⭐️",
+      "Progress": "Not Started",
+      "Type": "Franchise",
+      "Story": "Fiction",
+      "Duration": "3hr 2min",
+      "Release": "22 Dec 2023"
+    },
+    {
+      "ID":"M-5",
+      "Name": "Salaar",
+      "Language": "Telugu",
+      "Genre": "Action",
+      "Platform": "Netflix",
+      "Rating": "⭐️⭐️⭐️⭐️",
+      "Progress": "Started",
+      "Type": "Franchise",
+      "Story": "Fiction",
+      "Duration": "3hr 2min",
+      "Release": "22 Dec 2023"
+    }
+  ]
